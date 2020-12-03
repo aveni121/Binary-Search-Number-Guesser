@@ -1,0 +1,2 @@
+# Binary-Search-Number-Guesser
+A Python program that implemented “Binary Search”. The program would prompt the user to think of a number between 1-1000, then input a multiple of the number, and the last digit of the number. The program displays a number and asks if it is correct. If not the program prompts the user if their number is higher or lower (This is where binary search is applied).  The program applied the use of list comprehension, conditionals, functions, and while loops to eventually guess the number the user is thinking of.
